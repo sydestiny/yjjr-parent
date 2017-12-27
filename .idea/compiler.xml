@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yjjr-common" />
+        <module name="yjjr-manage-mapper" />
+        <module name="yjjr-manage-pojo" />
+        <module name="yjjr-manage-service" />
+        <module name="yjjr-manage-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="yjjr-common" target="1.7" />
+      <module name="yjjr-manage" target="1.7" />
+      <module name="yjjr-manage-mapper" target="1.7" />
+      <module name="yjjr-manage-pojo" target="1.7" />
+      <module name="yjjr-manage-service" target="1.7" />
+      <module name="yjjr-manage-web" target="1.7" />
+      <module name="yjjr-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

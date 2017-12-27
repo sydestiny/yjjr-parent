@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../yjjr-common/yjjr-common.iml" filepath="$PROJECT_DIR$/../yjjr-common/yjjr-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yjjr-manage/yjjr-manage.iml" filepath="$PROJECT_DIR$/../yjjr-manage/yjjr-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yjjr-manage/yjjr-manage-mapper/yjjr-manage-mapper.iml" filepath="$PROJECT_DIR$/../yjjr-manage/yjjr-manage-mapper/yjjr-manage-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yjjr-manage/yjjr-manage-pojo/yjjr-manage-pojo.iml" filepath="$PROJECT_DIR$/../yjjr-manage/yjjr-manage-pojo/yjjr-manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yjjr-manage/yjjr-manage-service/yjjr-manage-service.iml" filepath="$PROJECT_DIR$/../yjjr-manage/yjjr-manage-service/yjjr-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yjjr-manage/yjjr-manage-web/yjjr-manage-web.iml" filepath="$PROJECT_DIR$/../yjjr-manage/yjjr-manage-web/yjjr-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yjjr-parent.iml" filepath="$PROJECT_DIR$/yjjr-parent.iml" />
+    </modules>
+  </component>
+</project>

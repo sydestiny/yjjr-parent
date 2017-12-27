@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yjjr-manage-web:war">
+    <output-path>$PROJECT_DIR$/../yjjr-manage/yjjr-manage-web/target</output-path>
+    <root id="archive" name="yjjr-manage-web.war">
+      <element id="artifact" artifact-name="yjjr-manage-web:war exploded" />
+    </root>
+  </artifact>
+</component>
